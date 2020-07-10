@@ -1,0 +1,14 @@
+C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\ClientLib\bin\Debug\netstandard2.0\ClientLib.deps.json
+C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\ClientLib\bin\Debug\netstandard2.0\ClientLib.dll
+C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\ClientLib\bin\Debug\netstandard2.0\ClientLib.pdb
+C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\ClientLib\bin\Debug\netstandard2.0\Shared.dll
+C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\ClientLib\bin\Debug\netstandard2.0\Shared.pdb
+C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\ClientLib\obj\Debug\netstandard2.0\ClientLib.csprojAssemblyReference.cache
+C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\ClientLib\obj\Debug\netstandard2.0\ClientLib.csproj.CoreCompileInputs.cache
+C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\ClientLib\obj\Debug\netstandard2.0\ClientLib.AssemblyInfoInputs.cache
+C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\ClientLib\obj\Debug\netstandard2.0\ClientLib.AssemblyInfo.cs
+C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\ClientLib\obj\Debug\netstandard2.0\ClientLib.csproj.CopyComplete
+C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\ClientLib\obj\Debug\netstandard2.0\ClientLib.dll
+C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\ClientLib\obj\Debug\netstandard2.0\ClientLib.pdb
+C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\ClientLib\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\ClientLib\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml

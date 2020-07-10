@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Roots >
+  <Roots.Interfaces>
+    <RootInterface FullName="Windows.UI.Xaml.Data.IValueConverter" />
+  </Roots.Interfaces>
+  <Roots.PropertyPathNames>
+    <RootPropertyPathName Name="AddBook" />
+    <RootPropertyPathName Name="BtnCancel" />
+    <RootPropertyPathName Name="BtnAddBook" />
+    <RootPropertyPathName Name="Writers" />
+    <RootPropertyPathName Name="Writer" />
+    <RootPropertyPathName Name="Name" />
+    <RootPropertyPathName Name="Publishers" />
+    <RootPropertyPathName Name="Publisher" />
+    <RootPropertyPathName Name="GenresBinding" />
+    <RootPropertyPathName Name="IsChecked" />
+    <RootPropertyPathName Name="NewBook" />
+    <RootPropertyPathName Name="ImgUrl" />
+    <RootPropertyPathName Name="Price" />
+    <RootPropertyPathName Name="Description" />
+    <RootPropertyPathName Name="Copies" />
+    <RootPropertyPathName Name="AddJournal" />
+    <RootPropertyPathName Name="BtnAddJournal" />
+    <RootPropertyPathName Name="Editions" />
+    <RootPropertyPathName Name="Edition" />
+    <RootPropertyPathName Name="newJournal" />
+    <RootPropertyPathName Name="AdminPage" />
+    <RootPropertyPathName Name="BtnGoBack" />
+    <RootPropertyPathName Name="BtnHistoryPromotions" />
+    <RootPropertyPathName Name="BtnHistorySales" />
+    <RootPropertyPathName Name="BtnAddItem" />
+    <RootPropertyPathName Name="CurrentItem" />
+    <RootPropertyPathName Name="Item" />
+    <RootPropertyPathName Name="PrintDate" />
+    <RootPropertyPathName Name="HistoryPromotions" />
+    <RootPropertyPathName Name="Promotions" />
+    <RootPropertyPathName Name="GenreDiscount" />
+    <RootPropertyPathName Name="Percent" />
+    <RootPropertyPathName Name="GenreDiscountId" />
+    <RootPropertyPathName Name="PublisherDiscount" />
+    <RootPropertyPathName Name="PublisherDiscountId" />
+    <RootPropertyPathName Name="WriterDiscount" />
+    <RootPropertyPathName Name="WriterDiscountId" />
+    <RootPropertyPathName Name="Type" />
+    <RootPropertyPathName Name="DateEnd" />
+    <RootPropertyPathName Name="DateStart" />
+    <RootPropertyPathName Name="Genre" />
+    <RootPropertyPathName Name="Id" />
+    <RootPropertyPathName Name="HistorySales" />
+    <RootPropertyPathName Name="FinalPrice" />
+    <RootPropertyPathName Name="User" />
+    <RootPropertyPathName Name="UserName" />
+    <RootPropertyPathName Name="Date" />
+    <RootPropertyPathName Name="Customer" />
+    <RootPropertyPathName Name="Login" />
+    <RootPropertyPathName Name="btnToRegister" />
+    <RootPropertyPathName Name="btnToLogin" />
+    <RootPropertyPathName Name="Main" />
+    <RootPropertyPathName Name="IsAdmin" />
+    <RootPropertyPathName Name="BtnAdminPermission" />
+    <RootPropertyPathName Name="BtnRefresh" />
+    <RootPropertyPathName Name="SearchDiscountCommand" />
+    <RootPropertyPathName Name="SearchDiscount" />
+    <RootPropertyPathName Name="DiscountTypes" />
+    <RootPropertyPathName Name="SelectedFilterDiscount" />
+    <RootPropertyPathName Name="IsEnableToFilter" />
+    <RootPropertyPathName Name="Search" />
+    <RootPropertyPathName Name="FilterTextChangedCommand" />
+    <RootPropertyPathName Name="SearchTypes" />
+    <RootPropertyPathName Name="SelectedFilter" />
+    <RootPropertyPathName Name="FilterComboChangedCommand" />
+    <RootPropertyPathName Name="ItemsBySearch" />
+    <RootPropertyPathName Name="DataContext" />
+    <RootPropertyPathName Name="BtnUpdate" />
+    <RootPropertyPathName Name="CopiesInStock" />
+    <RootPropertyPathName Name="BtnBuy" />
+    <RootPropertyPathName Name="Discount" />
+    <RootPropertyPathName Name="ShowItemSelected" />
+    <RootPropertyPathName Name="SelectedItem" />
+    <RootPropertyPathName Name="Customers" />
+    <RootPropertyPathName Name="BtnDisconnect" />
+    <RootPropertyPathName Name="Register" />
+    <RootPropertyPathName Name="btnGoBack" />
+    <RootPropertyPathName Name="btnRegister" />
+    <RootPropertyPathName Name="NewUser" />
+    <RootPropertyPathName Name="Email" />
+    <RootPropertyPathName Name="Password" />
+    <RootPropertyPathName Name="StartPage" />
+    <RootPropertyPathName Name="GoToLoginCommand" />
+    <RootPropertyPathName Name="UpdateItem" />
+  </Roots.PropertyPathNames>
+  <Roots.RootTypes>
+    <RootType FullName="Windows.UI.Xaml.Application">
+      <RootProperty Name="Resources" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.ResourceDictionary" />
+    <RootType FullName="Client.ViewModel.ViewModelLocator" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Page">
+      <RootProperty Name="Background" />
+      <RootProperty Name="DataContext" />
+      <RootProperty Name="Resources" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="Name" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.ThemeResourceExtension" />
+    <RootType FullName="Client.MainPage" />
+    <RootType FullName="Windows.UI.Xaml.Data.Binding">
+      <RootProperty Name="Source" />
+      <RootProperty Name="Path" />
+      <RootProperty Name="Mode" />
+      <RootProperty Name="Converter" />
+      <RootProperty Name="ElementName" />
+      <RootProperty Name="UpdateSourceTrigger" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.StaticResourceExtension" />
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBlock">
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="FontWeight" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="FontStyle" />
+      <RootProperty Name="Style" />
+      <RootProperty Name="Text" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="Inlines" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.FrameworkElement">
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.StackPanel">
+      <RootProperty Name="Resources" />
+      <RootProperty Name="Children" />
+      <RootProperty Name="Style" />
+      <RootProperty Name="Visibility" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Setter">
+      <RootProperty Name="Property" />
+      <RootProperty Name="Value" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Grid">
+      <RootProperty Name="ColumnDefinitions" />
+      <RootProperty Name="RowDefinitions" />
+      <RootProperty Name="Children" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Resources" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="Style" />
+      <RootMethod Name="GetColumn" />
+      <RootMethod Name="SetColumn" />
+      <RootMethod Name="GetRow" />
+      <RootMethod Name="SetRow" />
+      <RootMethod Name="GetColumnSpan" />
+      <RootMethod Name="SetColumnSpan" />
+      <RootMethod Name="GetRowSpan" />
+      <RootMethod Name="SetRowSpan" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ColumnDefinition">
+      <RootProperty Name="Width" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.RowDefinition">
+      <RootProperty Name="Height" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBox">
+      <RootProperty Name="Text" />
+      <RootProperty Name="InputScope" />
+      <RootProperty Name="PlaceholderText" />
+      <RootProperty Name="IsEnabled" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ComboBox">
+      <RootProperty Name="ItemsSource" />
+      <RootProperty Name="PlaceholderText" />
+      <RootProperty Name="ItemTemplate" />
+      <RootProperty Name="SelectedItem" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="HorizontalAlignment" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Button">
+      <RootProperty Name="Command" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="CommandParameter" />
+      <RootProperty Name="IsEnabled" />
+      <RootProperty Name="Visibility" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.DataTemplate">
+      <RootProperty Name="Template" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.CheckBox">
+      <RootProperty Name="Content" />
+      <RootProperty Name="IsChecked" />
+    </RootType>
+    <RootType FullName="Client.Views.AddBook" />
+    <RootType FullName="Client.Views.AddJournal" />
+    <RootType FullName="Windows.UI.Xaml.Controls.HyperlinkButton">
+      <RootProperty Name="Content" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Command" />
+      <RootProperty Name="Visibility" />
+    </RootType>
+    <RootType FullName="Client.Views.AdminPage" />
+    <RootType FullName="Windows.UI.Xaml.Controls.UserControl">
+      <RootProperty Name="DataContext" />
+      <RootProperty Name="Resources" />
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Client.Converter.DateFormatConverter" />
+    <RootType FullName="Client.Converter.AddCurrencyToPriceConverter" />
+    <RootType FullName="Client.Converter.VisibilityDetailsItem" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Image">
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Source" />
+      <RootProperty Name="Style" />
+    </RootType>
+    <RootType FullName="Client.Views.CurrentItem" />
+    <RootType FullName="Client.Converter.VisibilityColumPromotions" />
+    <RootType FullName="Client.Converter.AddPercentToPromotion" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ListView">
+      <RootProperty Name="ItemsSource" />
+      <RootProperty Name="ItemTemplate" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ScrollViewer">
+      <RootMethod Name="GetVerticalScrollBarVisibility" />
+      <RootMethod Name="SetVerticalScrollBarVisibility" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Control">
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="FontWeight" />
+      <RootProperty Name="Foreground" />
+    </RootType>
+    <RootType FullName="Client.Views.HistoryPromotions" />
+    <RootType FullName="Client.Converter.TypeItem" />
+    <RootType FullName="Client.Views.HistorySales" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ContentControl">
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.PasswordBox">
+      <RootProperty Name="PlaceholderText" />
+    </RootType>
+    <RootType FullName="Client.Views.Login" />
+    <RootType FullName="Client.Converter.VisibilityConvert" />
+    <RootType FullName="Client.Converter.DiscountItem" />
+    <RootType FullName="Client.Converter.CopiesInStockConverter" />
+    <RootType FullName="Microsoft.Xaml.Interactivity.Interaction">
+      <RootMethod Name="GetBehaviors" />
+      <RootMethod Name="SetBehaviors" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.Interactions.Core.EventTriggerBehavior">
+      <RootProperty Name="EventName" />
+      <RootProperty Name="Actions" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.Interactions.Core.InvokeCommandAction">
+      <RootProperty Name="Command" />
+      <RootProperty Name="CommandParameter" />
+    </RootType>
+    <RootType FullName="Client.Views.Main" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ToolTipService">
+      <RootMethod Name="GetToolTip" />
+      <RootMethod Name="SetToolTip" />
+    </RootType>
+    <RootType FullName="Client.Views.Register" />
+    <RootType FullName="Windows.UI.Xaml.Media.ImageBrush">
+      <RootProperty Name="Stretch" />
+      <RootProperty Name="ImageSource" />
+    </RootType>
+    <RootType FullName="Client.Views.StartPage" />
+    <RootType FullName="Client.Views.UpdateItem" />
+  </Roots.RootTypes>
+</Roots>

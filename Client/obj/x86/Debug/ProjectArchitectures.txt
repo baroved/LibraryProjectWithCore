@@ -1,0 +1,2 @@
+C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Client\Client.csproj;x86
+C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Design\Design.csproj;x86

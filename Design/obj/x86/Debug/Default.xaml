@@ -1,0 +1,21 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Design">
+
+    <Style x:Key="upper" TargetType="FrameworkElement">
+        <Setter Property="HorizontalAlignment" Value="Left"/>
+        <Setter Property="VerticalAlignment" Value="Top"/>
+    </Style>
+
+    <Style TargetType="StackPanel" BasedOn="{StaticResource upper}"/>
+
+    <Style x:Name="styleTitle" TargetType="TextBlock" BasedOn="{StaticResource upper}">
+        <Setter Property="FontSize" Value="50"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="Foreground" Value="Blue"/>
+        <Setter Property="FontStyle" Value="Italic"/>
+    </Style>
+
+</ResourceDictionary>
+

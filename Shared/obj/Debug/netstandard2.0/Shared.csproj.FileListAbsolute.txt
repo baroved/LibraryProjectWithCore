@@ -1,0 +1,12 @@
+C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Shared\bin\Debug\netstandard2.0\Shared.deps.json
+C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Shared\bin\Debug\netstandard2.0\Shared.dll
+C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Shared\bin\Debug\netstandard2.0\Shared.pdb
+C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Shared\obj\Debug\netstandard2.0\Shared.csproj.CoreCompileInputs.cache
+C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Shared\obj\Debug\netstandard2.0\Shared.AssemblyInfoInputs.cache
+C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Shared\obj\Debug\netstandard2.0\Shared.AssemblyInfo.cs
+C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Shared\obj\Debug\netstandard2.0\Shared.dll
+C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Shared\obj\Debug\netstandard2.0\Shared.pdb
+C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Shared\obj\Debug\netstandard2.0\Shared.csprojAssemblyReference.cache
+C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Shared\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Shared\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Shared\obj\Debug\netstandard2.0\Shared.csproj.CopyComplete

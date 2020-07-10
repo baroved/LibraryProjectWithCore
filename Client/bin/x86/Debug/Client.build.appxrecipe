@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LAPTOP-S01B83NC</Machine>
+    <WindowsUser>12bar</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>6d66fbd5-24e1-4663-8c0c-96445ae31b3c</PackageIdentityName>
+    <PackageIdentityPublisher>CN=12bar</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Client\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Client\bin\x86\Debug\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Client\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Client\bin\x86\Debug\Client.exe">
+      <PackagePath>entrypoint\Client.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\.nuget\packages\commonservicelocator\2.0.2\lib\netstandard2.0\CommonServiceLocator.dll">
+      <PackagePath>CommonServiceLocator.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\.nuget\packages\microsoft.aspnetcore.connections.abstractions\3.1.1\lib\netstandard2.0\Microsoft.AspNetCore.Connections.Abstractions.dll">
+      <PackagePath>Microsoft.AspNetCore.Connections.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\.nuget\packages\microsoft.aspnetcore.http.connections.client\3.1.1\lib\netstandard2.0\Microsoft.AspNetCore.Http.Connections.Client.dll">
+      <PackagePath>Microsoft.AspNetCore.Http.Connections.Client.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\.nuget\packages\microsoft.aspnetcore.http.connections.common\3.1.1\lib\netstandard2.0\Microsoft.AspNetCore.Http.Connections.Common.dll">
+      <PackagePath>Microsoft.AspNetCore.Http.Connections.Common.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\.nuget\packages\microsoft.aspnetcore.http.features\3.1.1\lib\netstandard2.0\Microsoft.AspNetCore.Http.Features.dll">
+      <PackagePath>Microsoft.AspNetCore.Http.Features.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\.nuget\packages\microsoft.aspnetcore.signalr.client\3.1.1\lib\netstandard2.0\Microsoft.AspNetCore.SignalR.Client.dll">
+      <PackagePath>Microsoft.AspNetCore.SignalR.Client.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\.nuget\packages\microsoft.aspnetcore.signalr.client.core\3.1.1\lib\netstandard2.0\Microsoft.AspNetCore.SignalR.Client.Core.dll">
+      <PackagePath>Microsoft.AspNetCore.SignalR.Client.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\.nuget\packages\microsoft.aspnetcore.signalr.common\3.1.1\lib\netstandard2.0\Microsoft.AspNetCore.SignalR.Common.dll">
+      <PackagePath>Microsoft.AspNetCore.SignalR.Common.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\.nuget\packages\microsoft.aspnetcore.signalr.protocols.json\3.1.1\lib\netstandard2.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll">
+      <PackagePath>Microsoft.AspNetCore.SignalR.Protocols.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\.nuget\packages\microsoft.bcl.asyncinterfaces\1.1.0\lib\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll">
+      <PackagePath>Microsoft.Bcl.AsyncInterfaces.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\.nuget\packages\microsoft.extensions.configuration\3.1.1\lib\netstandard2.0\Microsoft.Extensions.Configuration.dll">
+      <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\.nuget\packages\microsoft.extensions.configuration.abstractions\3.1.1\lib\netstandard2.0\Microsoft.Extensions.Configuration.Abstractions.dll">
+      <PackagePath>Microsoft.Extensions.Configuration.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\.nuget\packages\microsoft.extensions.configuration.binder\3.1.1\lib\netstandard2.0\Microsoft.Extensions.Configuration.Binder.dll">
+      <PackagePath>Microsoft.Extensions.Configuration.Binder.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\.nuget\packages\microsoft.extensions.dependencyinjection\3.1.1\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll">
+      <PackagePath>Microsoft.Extensions.DependencyInjection.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\3.1.1\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll">
+      <PackagePath>Microsoft.Extensions.DependencyInjection.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\.nuget\packages\microsoft.extensions.logging\3.1.1\lib\netstandard2.0\Microsoft.Extensions.Logging.dll">
+      <PackagePath>Microsoft.Extensions.Logging.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\.nuget\packages\microsoft.extensions.logging.abstractions\3.1.1\lib\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll">
+      <PackagePath>Microsoft.Extensions.Logging.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\.nuget\packages\microsoft.extensions.options\3.1.1\lib\netstandard2.0\Microsoft.Extensions.Options.dll">
+      <PackagePath>Microsoft.Extensions.Options.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\.nuget\packages\microsoft.extensions.primitives\3.1.1\lib\netstandard2.0\Microsoft.Extensions.Primitives.dll">
+      <PackagePath>Microsoft.Extensions.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.1\lib\uap10.0\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.1\lib\uap10.0\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\.nuget\packages\mvvmlightlibs\5.4.1.1\lib\uap10.0\GalaSoft.MvvmLight.Extras.dll">
+      <PackagePath>GalaSoft.MvvmLight.Extras.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\.nuget\packages\mvvmlightlibs\5.4.1.1\lib\uap10.0\GalaSoft.MvvmLight.Platform.dll">
+      <PackagePath>GalaSoft.MvvmLight.Platform.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\.nuget\packages\mvvmlightlibs\5.4.1.1\lib\uap10.0\GalaSoft.MvvmLight.dll">
+      <PackagePath>GalaSoft.MvvmLight.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\.nuget\packages\newtonsoft.json\12.0.3\lib\netstandard2.0\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.7\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\.nuget\packages\system.io.pipelines\4.7.0\lib\netstandard2.0\System.IO.Pipelines.dll">
+      <PackagePath>System.IO.Pipelines.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\.nuget\packages\system.runtime.compilerservices.unsafe\4.7.0\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll">
+      <PackagePath>System.Runtime.CompilerServices.Unsafe.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\.nuget\packages\system.text.encodings.web\4.7.0\lib\netstandard2.0\System.Text.Encodings.Web.dll">
+      <PackagePath>System.Text.Encodings.Web.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\.nuget\packages\system.text.json\4.7.0\lib\netstandard2.0\System.Text.Json.dll">
+      <PackagePath>System.Text.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\.nuget\packages\system.threading.channels\4.7.0\lib\netstandard2.0\System.Threading.Channels.dll">
+      <PackagePath>System.Threading.Channels.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.dll">
+      <PackagePath>BusinessLogic.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\ClientLib\bin\Debug\netstandard2.0\ClientLib.dll">
+      <PackagePath>ClientLib.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Design\bin\x86\Debug\Design.dll">
+      <PackagePath>Design.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Shared\bin\Debug\netstandard2.0\Shared.dll">
+      <PackagePath>Shared.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.17763.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+      <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Client\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Client\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Client\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Client\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Client\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Client\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Client\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Client\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Client\bin\x86\Debug\Client.xr.xml">
+      <PackagePath>Client.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Design\bin\x86\Debug\Design.xr.xml">
+      <PackagePath>Design\Design.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Client\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Client\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Client\bin\x86\Debug\Views\AddBook.xbf">
+      <PackagePath>Views\AddBook.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Client\bin\x86\Debug\Views\AddJournal.xbf">
+      <PackagePath>Views\AddJournal.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Client\bin\x86\Debug\Views\AdminPage.xbf">
+      <PackagePath>Views\AdminPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Client\bin\x86\Debug\Views\CurrentItem.xbf">
+      <PackagePath>Views\CurrentItem.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Client\bin\x86\Debug\Views\HistoryPromotions.xbf">
+      <PackagePath>Views\HistoryPromotions.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Client\bin\x86\Debug\Views\HistorySales.xbf">
+      <PackagePath>Views\HistorySales.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Client\bin\x86\Debug\Views\Login.xbf">
+      <PackagePath>Views\Login.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Client\bin\x86\Debug\Views\Main.xbf">
+      <PackagePath>Views\Main.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Client\bin\x86\Debug\Views\Register.xbf">
+      <PackagePath>Views\Register.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Client\bin\x86\Debug\Views\StartPage.xbf">
+      <PackagePath>Views\StartPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Client\bin\x86\Debug\Views\UpdateItem.xbf">
+      <PackagePath>Views\UpdateItem.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Design\bin\x86\Debug\Default.xbf">
+      <PackagePath>Design\Default.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Client\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\12bar\Desktop\תרגול-כיתה במפעל\LibraryProject\Client\bin\x86\Debug\Core\Client.exe">
+      <PackagePath>Client.exe</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.7\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27404.2</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27404.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.7\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.7\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27404.2</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27404.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.7\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.7\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27404.2</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27404.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.7\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.7\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.27505.2</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.27505.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.7\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.7\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.27505.2</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.27505.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.7\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.7\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.27505.2</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.27505.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.7\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27023.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27023.1</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27023.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27023.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
